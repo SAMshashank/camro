@@ -62,9 +62,19 @@ weight:['400','500','600']});```
   );```
 
 
-  # config uring tailwind css
+# config uring tailwind css
   __create a new config file__
   touch tailwind.conf.js
 
   __add this to your conf filter
   
+# I am created group route using ' ( ) '
+
+# What is layouts in next js?
+ Layouts are reusable page wrappers in Next.js. They provide a central location to add components that span across pages, such as headers,
+Layouts are used to define the structure of pages, and can be thought of as React components that wrap around pages. They provide a way to
+Layouts are used to wrap pages with components that provide consistent user experiences across an application.
+  
+# use clerk for user authentication and Authorization
+ ## How To Use Clerk In Your NextJS Project ?
+ ```npm i @clerk/nextjs```
