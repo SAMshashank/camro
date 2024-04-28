@@ -78,3 +78,8 @@ Layouts are used to wrap pages with components that provide consistent user expe
 # use clerk for user authentication and Authorization
  ## How To Use Clerk In Your NextJS Project ?
  ```npm i @clerk/nextjs```
+
+ Cloudinary AI Background Removal - to ramove background
+
+
+Google Auto Tagging - for image search
